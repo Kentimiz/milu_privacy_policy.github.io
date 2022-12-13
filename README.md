@@ -1,62 +1,56 @@
+# GİZLİLİK POLİTİKASI
 
-# Privacy Policy
-Milu Team built the Milu app as an Problem solving center app. This SERVICE is provided by Milu Team at no cost and is intended for use as is.
+Milu olarak, kişisel verilerinizin gizliliğine önem verdiğimiz ve bizimle paylaştığınız bilgilerin kişisel ve gizli olduğunu kabul ettiğimiz için bu hususa hassasiyetle yaklaşıyoruz.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+İşbu Gizlilik Politikası’nı (“Politika”), internet sitesi ve uygulamalar (“Sitemiz”) üzerinden toplanan verilerin gizliliği ve güvenliği hakkında Sitemizi ziyaret eden kullanıcılarımızı 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) ve ikincil mevzuat kapsamında bilgilendirmek amacıyla oluşturduk. Kişisel verileriniz, işbu Politika çerçevesinde, yalnızca size daha iyi bir hizmet sunmak amacıyla kullanılacaktır.
+	
+# 1. Politika’nın Kapsamı
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Milu olarak yönettiğimiz Sitemize erişiminiz sırasında topladığımız verilerinizin gizliliği ve güvenliği işbu Politika’nın kapsamındadır. Milu tarafından yönetilmeyen bir sitede Milu’ya ait bir logonun, işaretin vb. bir görselin bulunması işbu Politika’nın o site için geçerli olduğu anlamına gelmemektedir.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Milu unless otherwise defined in this Privacy Policy.
+# 2. Kişisel Verilerin Korunması
 
-Information Collection and Use
+2.1. Kişisel Verilerin İşlenmesinde Genel İlkeler
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to full name, phone number(optional), birthday (optional), e-mail, address (optional). The information that we request will be retained by us and used as described in this privacy policy.
+Milu tarafından kişisel verilerinize ilişkin işleme faaliyetleri aşağıda sayılan genel ilkelere uygun olarak gerçekleştirilmektedir:
+Hukuka ve dürüstlük kurallarına uygun olma,
+Doğru ve gerektiğinde güncel olma,
+Belirli, açık ve meşru amaçlar için işlenme,
+İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma,
+İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme.
 
-The app does use third party services that may collect information used to identify you.
+2.2. Kişisel Verilerin İşlenme Amaçları ve Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni
 
-Link to privacy policy of third party service providers used by the app
+Kişisel verilerinizi tarafınızdan istenen hizmetlerin sağlanması, taleplerinizin alınması ve bu kapsamda sizinle iletişim kurulması gibi amaçlarla kullanıyoruz. Bu amaçlar aşağıdakilerle sınırlı olmamak üzere şu şekilde detaylandırılabilir:
+Faaliyetlerin mevzuata uygun yürütülmesi
+Şirket güvenliğinin sağlanabilmesi
+Sorunlarınızın hızlıca çözümlenebilmesi
 
-[Google Play Services](https://policies.google.com/privacy)
+Milu tarafından işbu Politika dışında verilerin işlenmesi, güvenliği, gizliliği vb. hususlarda başka politikalar veya prosedürler de belirlenmiş olabilir. Bu nedenle diğer hukuki metinleri de incelemenizi tavsiye ederiz.
 
+KVKK kapsamında hangi tür kişisel verilerinizin (veri kategorisi) veri sorumlusu sıfatı ile Milu tarafından hangi amaçlarla ve hangi hukuki sebeplerle işlendiği ve aktarıldığı, kişisel verilerinizin hangi taraflara aktarıldığı, kişisel verilerinize ilişkin haklarınızın neler olduğu ile ilgili detaylı bilgi almak için lütfen KVKK ile ilgili mevzuat ve yasal düzenlemelerden kaynaklanan faaliyetlerimiz çerçevesinde veri sahibi ilgili kişileri aydınlatmak amacıyla hazırladığımız Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni’ni okuyunuz.
 
-[Firebase](https://firebase.google.com/support/privacy)
+# 3. Kişisel Verilerin Saklanması ve İmhası
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Ayrıca; Şirketimiz kişisel verileri saklama ve imha işlemleri için bir Saklama ve İmha Politikası oluşturmuştur. Kişisel verilerinize ilişkin saklama ve imha işlemleri bu politika kapsamında gerçekleştirilmektedir. Buna göre KVKK’da veya ilgili kanunlar ile sair ilgili mevzuatta verinin saklanması için bir süre belirlenmişse, söz konusu veri en az bu süre kadar saklanmak zorundadır.
 
-# Cookies
+Mevzuatta işlediğimiz verinin saklanma süresine yönelik bir süre öngörülmemiş ise aramızdaki ilişkinin gereği olarak olası uyuşmazlıklar da göz önüne alınarak hukuki ilişkimizin sona ermesinden itibaren 10 yıllık dava zamanaşımı süresinin geçmesiyle verileriniz herhangi bir talebinize gerek olmadan silinir, yok edilir veya anonim hale getirilir.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Kişisel verilerin işleme şartlarının tamamı ortadan kalkmış ya da tarafımızca beyan edilen veya mevzuat kapsamında belirlenen saklama süresi dolmuş ise verileriniz, ilk periyodik imha tarihinde veya en geç 6 ay içerisinde re’sen silinir, yok edilir veya anonim hale getirilir. Geçerli bir sebep ile verilerinizin silinmesine dair talepte bulunmanız halinde ise verileriniz yasal olarak mümkün olduğu nispette en geç 30 gün içerisinde silinir. Saklama süresi mevzuatta belirlenmiş verilerinizin öngörülen sürelerden önce silinmesini veya imha edilmesini talep etmeniz halinde söz konusu talebiniz gerçekleştirilemeyecektir.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+# 4.Çerezler Vasıtasıyla Toplanan Veriler
 
-# Service Providers
+Çerezler, bir internet sitesi ziyaret edildiğinde ziyaretçinin cihazında (örneğin bilgisayar veya telefon) depolanan ve isim-değer formatında veri barındırabilen küçük metin dosyalarıdır. Bu vesileyle internet sitesine/sitelerine ziyaretin gerçekleştirildiği cihaz ve ilgili kullanıcı hakkında çeşitli bilgiler elde edilebilmektedir. İnternet sitemizde kullanılan çerezlerle ilgili detaylı bilgi için Çerez Politikası’nı inceleyebilirsiniz.
 
-We may employ third-party companies and individuals due to the following reasons:
+# 5. Üçüncü Taraf İnternet Sitelerine Verilen Linkler
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Sitemiz, üçüncü tarafların internet sitelerine ait bağlantılar içerebilir. Bu gibi hallerde üçüncü taraflarca veri toplanması, işlenmesi, paylaşılması veya aktarımı sorumluluğumuzun dışındadır. Üçüncü taraf siteleri kullanımınız ve bu sitelerle veri paylaşımınız, bu sitelerdeki gizlilik politikası ve kullanım şartlarına tabi olup işbu Politika’nın kapsamı dışındadır. Kişisel verilerinizi paylaşmadan önce ziyaret ettiğiniz internet sitelerinin gizlilik politikalarını okumanızı öneririz.
 
-# Security
+# 6. Politika’nın Güncellenmesi
+İşbu Politika’nın hükümleri kısmen veya tamamen, internet sitemizde yayımlandığı tarihte yürürlüğe girmek üzere değiştirilebilir ya da yenilenebilir.
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+# 7. Bize Ulaşın
 
-# Links to Other Sites
+İşbu Politika’nın yorumlanması veya uygulanması ile ilgili sorularınızı, çekincelerinizi veya şikayetlerinizi;
+E-mail yoluyla teknik.milu@gmail.com adresine iletebilirsiniz. 
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-# Children’s Privacy
-
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
-
-Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2022-10-27
-
-Contact Us
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at teknik.milu@gmail.com
